@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248850928641",
+    "project_id": "symbolic-yeti-150715",
+    "storage_bucket": "symbolic-yeti-150715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248850928641:android:543370dbe9ae1633eb5c00",
+        "android_client_info": {
+          "package_name": "com.firebanappreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248850928641-8d8hn6qtlt2elf95483mua0m7ttfql9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnaCGKC2CsuUW1pk_4-07h4R7eeabaWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248850928641-8d8hn6qtlt2elf95483mua0m7ttfql9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
